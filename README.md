@@ -1,2 +1,2 @@
-# archbee-docs
-Archbee docs POC
+# docs
+Documentation experiments
