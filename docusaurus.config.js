@@ -141,7 +141,7 @@ const config = {
         // Public API key: it is safe to commit it
         apiKey: 'bcc587c1aa5ea4374554cc664ea27669',
   
-        indexName: 'docusaurus_experiments',
+        indexName: 'my_first_index',
   
         // Optional: see doc section below
         contextualSearch: true,
